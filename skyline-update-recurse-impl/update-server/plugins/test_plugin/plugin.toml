@@ -1,0 +1,9 @@
+version = "1.0.0"
+name = 'test_plugin'
+files = [
+    #{ install_location = "sd:/ultimate/mods/test.txt", filename = "test.txt" },
+    #{ install_location = "sd:/ultimate/mods/bruh.txt", filename = "bruh.txt" }
+]
+folders = [
+	{ install_root_location = "sd:/ultimate/mods/foider", root_name = "foider" }
+]
